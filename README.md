@@ -1,2 +1,2 @@
 # blackboxlabs.github.io
-My blog on Data Science, Policy, Digital Tech
+My blog on Science, Policy, Digital Tech
