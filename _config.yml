@@ -23,7 +23,7 @@ description              : "A blog and Research site for things"
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
-teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
+teaser                   : /images/blackboxglow.jpg # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 # breadcrumbs            : false # true, false (default)
 words_per_minute         :
 comments:
@@ -105,7 +105,7 @@ author:
   avatar           : "/images/chuxorefo.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Research Consultant & Technical Advisor"
   location         : "London"
-  email            : "chux.orefo@gmail.com"
+  email            : ""
   logo             : "/images/blackboxglow.jpg" # path of site logo, e.g. "/assets/images/logo.png"
   links:
     - label: ""
