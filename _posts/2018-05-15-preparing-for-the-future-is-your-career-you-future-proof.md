@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Preparing For The Future --Is your career you future proof?
+title: "Preparing For The Future --Is your career you future proof?"
 date: 2018-05-15 18:03
 author: Chukwuka Orefo
 comments: true

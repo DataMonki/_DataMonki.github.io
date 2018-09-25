@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Digital Disruption - Is your Business Prepared?
+title: "Digital Disruption - Is your Business Prepared?"
 date: 2016-05-03 22:18
 author: Chukwuka Orefo
 comments: true

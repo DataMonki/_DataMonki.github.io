@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Adding Machine Learning Technologies to Your Business Model
+title: "Adding Machine Learning Technologies to Your Business Model"
 date: 2018-07-15 20:38
 author: Chukwuka Orefo
 comments: true

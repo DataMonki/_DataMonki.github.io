@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Why Leaders Need Artificial Intelligence
+title: "Why Leaders Need Artificial Intelligence"
 date: 2016-10-17 02:22
 author: Chukwuka Orefo
 comments: true

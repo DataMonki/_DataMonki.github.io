@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Machine Learning & Big Data --Don't Fall for this Data Trap
+title: "Machine Learning & Big Data --Don't Fall for this Data Trap"
 date: 2018-04-18 20:03
 author: Chukwuka Orefo
 comments: true

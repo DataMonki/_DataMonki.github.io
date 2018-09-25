@@ -1,6 +1,6 @@
 ---
 layout: post
-title: What is Artificial Intelligence?
+title: "What is Artificial Intelligence?"
 date: 2017-07-04 16:17
 author: Chukwuka Orefo
 comments: true

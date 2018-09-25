@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Demystify Machine Learning
+title: "Demystify Machine Learning"
 date: 2017-06-06 21:39
 author: Chukwuka Orefo
 comments: true
