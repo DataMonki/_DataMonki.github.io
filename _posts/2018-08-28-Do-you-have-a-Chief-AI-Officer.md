@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 title: "Does your Business Need A Chief AI Officer?"
 date: 2018-08-28 02:41
 author: Chukwuka Orefo
