@@ -284,7 +284,7 @@ defaults:
       layout: single
       author_profile: true
       read_time: true
-      permalink: pretty
+      permalink: /:year/:month/:day/:title/:output_ext
       comments: # true
       share: true
       related: true
