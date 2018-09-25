@@ -2,7 +2,7 @@
 layout: post
 title: Building Trust in AI --A Multifactorial Process
 date: 2018-04-18 20:03
-author: By Chukwuka Orefo
+author: Chukwuka Orefo
 comments: true
 categories: [AI, Artificial Intelligence, Business, Technology, Policy, Governance]
 ---

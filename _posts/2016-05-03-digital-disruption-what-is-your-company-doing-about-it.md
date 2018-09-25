@@ -2,7 +2,7 @@
 layout: post
 title: Digital Disruption - Is your Business Prepared?
 date: 2016-05-03 22:18
-author: By Chukwuka Orefo
+author: Chukwuka Orefo
 comments: true
 categories: [Artificial Intelligence, career, Digital Platfroms, future, jobs, Technology]
 ---

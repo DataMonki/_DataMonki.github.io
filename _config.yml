@@ -284,6 +284,7 @@ defaults:
       layout: single
       author_profile: true
       read_time: true
+      permalink: pretty
       comments: # true
       share: true
       related: true

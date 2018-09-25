@@ -2,7 +2,7 @@
 layout: post
 title: Demystify Machine Learning
 date: 2017-06-06 21:39
-author: By Chukwuka Orefo
+author: Chukwuka Orefo
 comments: true
 categories: [AI, Artificial Intelligence, Business, Technology]
 ---

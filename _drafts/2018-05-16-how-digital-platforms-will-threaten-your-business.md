@@ -2,7 +2,7 @@
 layout: post
 title: How Digital Platforms will Threaten your Business
 date: 2018-05-16 11:33
-author: By Chukwuka Orefo
+author: Chukwuka Orefo
 comments: true
 categories: [Artificial Intelligence, Business, Business Intelligence, Digital Platfroms, Technology]
 ---

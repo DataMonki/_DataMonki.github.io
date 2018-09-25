@@ -2,7 +2,7 @@
 layout: post
 title: Does your Business Need A Chief AI Officer?
 date: 2018-08-28 02:41
-author: By Chukwuka Orefo
+author: Chukwuka Orefo
 comments: true
 categories: [Uncategorized]
 ---

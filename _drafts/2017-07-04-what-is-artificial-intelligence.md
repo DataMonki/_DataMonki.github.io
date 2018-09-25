@@ -2,7 +2,7 @@
 layout: post
 title: What is Artificial Intelligence?
 date: 2017-07-04 16:17
-author: By Chukwuka Orefo
+author: Chukwuka Orefo
 comments: true
 categories: [AI, Artificial Intelligence, Business, Technology]
 ---

@@ -2,7 +2,7 @@
 layout: post
 title: Ready, Set, Go! Preparing your Business for Artificial Intelligence
 date: 2018-08-07 13:04
-author: By Chukwuka Orefo
+author: Chukwuka Orefo
 comments: true
 categories: [Uncategorized]
 ---

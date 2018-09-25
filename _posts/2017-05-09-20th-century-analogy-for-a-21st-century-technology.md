@@ -2,7 +2,7 @@
 layout: post
 title: 20th Century Analogy for a 21st Century Technology
 date: 2017-05-09 16:07
-author: By Chukwuka Orefo
+author: Chukwuka Orefo
 comments: true
 categories: [Artificial Intelligence, Technology]
 ---

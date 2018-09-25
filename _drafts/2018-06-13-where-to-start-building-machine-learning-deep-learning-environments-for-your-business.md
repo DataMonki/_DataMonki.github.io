@@ -2,7 +2,7 @@
 layout: post
 title: Where to start? Building Machine Learning & Deep Learning Environments for your Business
 date: 2018-06-13 11:01
-author: By Chukwuka Orefo
+author: Chukwuka Orefo
 comments: true
 categories: [AI, Artificial Intelligence, Technology]
 ---

@@ -2,7 +2,7 @@
 layout: post
 title: Understand Your Competitors with AI
 date: 2018-02-13 03:15
-author: By Chukwuka Orefo
+author: Chukwuka Orefo
 comments: true
 categories: [Artificial Intelligence, Business, Technology]
 ---

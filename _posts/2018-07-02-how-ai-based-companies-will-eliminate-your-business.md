@@ -2,7 +2,7 @@
 layout: post
 title: "How AI Based Companies will Eliminate your Business"
 date: 2018-07-02 11:01
-author: By Chukwuka Orefo
+author: Chukwuka Orefo
 comments: true
 categories: [AI, Artificial Intelligence, Business]
 ---
