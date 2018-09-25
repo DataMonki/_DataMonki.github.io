@@ -1,5 +1,5 @@
 ---
-layout: posts
+layout: post
 permalink: /projects/
 title: "Research Projects"
 author_profile: true
