@@ -1,5 +1,5 @@
 ---
-layout: contact-js
+layout: contact
 permalink: /contact/
 title: "Contact"
 ---
