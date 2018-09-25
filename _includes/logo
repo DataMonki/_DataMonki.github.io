@@ -1,0 +1,2 @@
+{% if author.logo %}
+  {%assign author_logo = author.logo %}
