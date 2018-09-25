@@ -11,6 +11,14 @@
   document.documentElement.className = document.documentElement.className.replace(/\bno-js\b/g, '') + ' js ';
 </script>
 
+<!--taken from bootstrap-->
+<style>
+    #jumbotron-header {
+        background: {{ site.ui.header.color1 }};
+        background: linear-gradient(135deg, {{ site.ui.header.color1 }}, {{ site.ui.header.color2 }});
+    }
+</style>
+
 <!-- For all browsers -->
 <link rel="stylesheet" href="{{ '/assets/css/main.css' | relative_url }}">
 
