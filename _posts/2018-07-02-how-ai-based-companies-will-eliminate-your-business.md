@@ -7,14 +7,15 @@ comments: true
 categories: [AI, Artificial Intelligence, Business]
 ---
 &nbsp;
-
+# __How AI Based Companies will Eliminate your Business__
 <img class="alignnone size-full wp-image-59" src="https://apragmatic.files.wordpress.com/2018/08/how-companies-can-use-ai-to-eliminate-yours.png" alt="How companies can use AI to eliminate yours.png"/>
 
 When the internet became big and viable for businesses both Macy’s and Amazon used it just a different ways. Macy's created a portal for people to shop at their store. Amazon created a completely new business model of shopping. While Macy’s had retail stores and therefore employees to pay, rent to pay and lights to keep on Amazon had none of this worry about.
 
 As a result Amazon could save money and offer a broad range of products.
 
-The difference the two is that Macy's integrated internet while Amazon used it as a foundation for their business model. What's a big difference? Well think about it like this; what happens if you pull the “plug” on the internet? Well Amazon would it would cease to exist but Macey's would still remain.<img class="alignnone size-full wp-image-60" src="https://apragmatic.files.wordpress.com/2018/08/how-companies-can-use-ai-to-eliminate-yours2.png" alt="How companies can use AI to eliminate yours2.png"  />
+<div>The difference the two is that Macy's integrated internet while Amazon used it as a foundation for their business model. What's a big difference? Well think about it like this; what happens if you pull the “plug” on the internet? Well Amazon would it would cease to exist but Macey's would still remain.</div>
+<img class="alignnone size-full wp-image-60" src="https://apragmatic.files.wordpress.com/2018/08/how-companies-can-use-ai-to-eliminate-yours2.png" alt="How companies can use AI to eliminate yours2.png"  />
 
 This Amazon uses the internet as its foundation while Macy’s does not. Fortunately the internet is not going anywhere so Amazon is here to stay!
 
@@ -52,6 +53,4 @@ Now imagine that multiple companies sprout up and each one specializes in one pa
 
 Having companies working together in such a fashion produces very serious competition. If your company's business model is outdated it simply can’t complete like Macy's who’s having a tough time against Amazon. It's got little to do with the people at Amazon being too smart or working harder; it really boils down to the business model, this is what makes difference!
 
-Hope this helps...
-
-&nbsp;
+_Hope this helps..._

@@ -8,7 +8,7 @@ categories: [Artificial Intelligence, Business, Business Intelligence, Digital P
 ---
 # __How Digital Platforms will Threaten your Business__
 
-![](https://apragmatic.files.wordpress.com/2018/08/done-_how-can-a-digital-platform-like-uber-threaten-allstate-insurance_html_9bb35da6f962a0471.png "Done-How can a Digital Platform like Uber Threaten AllState Insurance" width="1080" height="675"")
+![Digital Platforms will Threaten your Business1](https://apragmatic.files.wordpress.com/2018/08/done-_how-can-a-digital-platform-like-uber-threaten-allstate-insurance_html_9bb35da6f962a0471.png "Done-How can a Digital Platform like Uber Threaten AllState Insurance" width="1080" height="675"")
 
 
 __There are a new breed of companies on the rise whose business are solely based as a digital platforms.__
@@ -19,13 +19,13 @@ Companies are building a digital platforms and using them to bring communities t
 
 Amazon has a platform that brings buyers and sellers together. Buyers buy products and write reviews of the products they've purchased which in turn provides value to other buyers. So new buyers flock to the platform and in turn bring more sellers. In this community of buyers and sellers both find value and as a result the network grows exponentially.
 
-![Amazon](/images/how can a digital platform like uber threaten allstate insurance.png?alt="How can a Digital Platform like Uber Threaten AllState Insurance" "Amazon")
+![Amazon](/images/how can a digital platform like uber threaten allstate insurance.png "Amazon")
 
 
 ### _Facebook_
 Facebook also has a digital platform for people and their friends to share information with each other advertisers are now attractive to the platform because of the value it brings them.<span class="sd-abs-pos"> </span>
 
-![Facebook](/images/how can a digital platform like uber threaten allstate insurance2.png? alt="How can a Digital Platform like Uber Threaten AllState Insurance2" "facebook")
+![Facebook](/images/how can a digital platform like uber threaten allstate insurance2.png "facebook")
 
 ### _LinkedIn_
 LinkedIn provides a digital platform where its members can establish strong networks and showcase their professional side. Because of this companies that want to hire talent flock to the platform.

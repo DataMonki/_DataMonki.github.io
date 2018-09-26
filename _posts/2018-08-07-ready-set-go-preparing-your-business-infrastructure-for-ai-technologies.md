@@ -8,7 +8,7 @@ categories: [Uncategorized]
 ---
 # __Preparing your Business for Artificial Intelligence__
 
-<div>![](/images/how-should-your-business-prepare-for-the-ai.png)</div>
+<div>![business-prepare](/images/how-should-your-business-prepare-for-the-ai.png)</div>
 
 80% of CEOs  are concerned about AI but are hesitant to jump right in. For some digital businesses AI is their main product (Amazons and Google) and as such AI is integral to their business operations.
 
@@ -19,7 +19,7 @@ I'll try to help the ones that want to do something but don't know where to star
 
 Let’s so say you work for an airline company, you sell tickets to customers across the country.
 
-<div>![](/images/How should your business prepare for the AI2.png)</div>
+<div>![business prepare for the AI2](/images/How should your business prepare for the AI2.png)</div>
 
 Your customers may have questions like:
 <ul>
@@ -47,7 +47,7 @@ Customers might want to use the web, the mobile app or a phone to contact your c
 	<li>To be able to roll this out in a short time frame like 3 to 6 months.</li>
 </ul>
 
-<div>![](/images/How should your business prepare for the AI3.png)</div>
+![business prepare for the AI3](/images/How should your business prepare for the AI3.png)
 
 You will already have much of the data required for AI so that’s less time trying to figure out what data to collect in the first place. Moreover integration of AI with your backend system should be simple and not a long drawn out complicated process. The approach to AI you initially want to take is that It should be isolated so that if things crash it does not bring your whole company to a standstill.
 
