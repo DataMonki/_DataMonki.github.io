@@ -1,5 +1,5 @@
 ---
-layout:
+layout: post
 title: "Does your Business Need A Chief AI Officer?"
 date: 2018-08-28 02:41
 author: Chukwuka Orefo
@@ -11,7 +11,7 @@ categories: [Uncategorized]
 ![Chief AI Officer Acronym](/images/caio.png "Chief AI Officer Acronym")
 
 With the technological hype of AI society is now at an inflection point and as such both governments, business and organizations really need to be thinking about carving out executive levels of responsibility for AI in and machine learning, both in collective and responsive way.
-This doesn't mean that every organization needs to go out of their way to name a new chief AI officer CA.I.O. However, what  if your a CEO of a C-level member of a business you should have some metric for measuring accountability of AI and machine learning at a senior management level. There are several general key values a CA.I.O and all companies looking to get involved in Ai and machine learning. 
+This doesn't mean that every organization needs to go out of their way to name a new chief AI officer CA.I.O. However, what  if your a CEO of a C-level member of a business you should have some metric for measuring accountability of AI and machine learning at a senior management level. There are several general key values a CA.I.O and all companies looking to get involved in Ai and machine learning.
 
 ## __Talent__
 
