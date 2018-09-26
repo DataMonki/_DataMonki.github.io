@@ -59,4 +59,4 @@ Unfortunately since the current university systems does not let you do that you 
 
 In the future of truly globalized AI economy you have to be in a continuous cycle of assessing, learning, applying and adapting as your environment continues to change. So remember learn explicit knowledge, build tacit skills and combine your interest and passions. Always keep assessing, learning, applying and adapting this will help position your competitively and also complement AI systems making work more meaningful for a long time to come.
 
-Hope this helps...
+_Hope this helps..._

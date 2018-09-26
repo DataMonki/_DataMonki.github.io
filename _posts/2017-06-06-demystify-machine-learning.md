@@ -48,4 +48,4 @@ So to summarize, the things that matter for any machine learning is:
 <ul>
 	<li><strong>The algorithm:</strong> it'll find the parameters of the model.</li>
 </ul>
-Hope this helps...
+_Hope this helps..._

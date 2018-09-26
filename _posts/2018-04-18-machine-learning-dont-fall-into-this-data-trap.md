@@ -42,6 +42,4 @@ There are two lessons to learn from this example.
 
 It’s important to remember that at this time machine learning is like what car navigation systems used to be like a few years back. That is that even if your satnav tells you to make a right turn that would send you off a cliff we has to use our common sense --use critical thinking to understand that the systems recommendation was shorted sighted. Understanding this limitation gave us the psychological permission to override decision given to us by a machine. This is because implicitly we understand that just because a process has been automated based on data it doesn't automatically make that process correct or neutral. The grocery store is a simple example how data can misguide our decisions --but I'm sure you can think of similar problems with many more dimensions of data where you will need machine learning.
 
-Hope this helps...
-
-&nbsp;
+_Hope this helps..._

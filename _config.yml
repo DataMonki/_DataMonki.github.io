@@ -19,7 +19,7 @@ locale                   : "en-GB"
 title                    : "Blackboxlabs"
 title_separator          : "-"
 name                     : "Chukwuka Orefo"
-description              : "A blog and Research site for things"
+description              : "my blog of important things "
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -60,7 +60,7 @@ reCaptcha:
   secret                 :
 atom_feed:
   path                   : # blank (default) uses feed.xml
-search                   : # true, false (default)
+search                   : true # true, false (default)
 search_full_content      : # true, false (default)
 search_provider          : # lunr (default), algolia, google
 algolia:
@@ -104,16 +104,16 @@ analytics:
 author:
   name             : "Chukwuka Orefo"
   avatar           : "/images/chuxorefo.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Research Consultant & Technical Advisor"
+  bio              : "Research & Technical Advisor"
   location         : "London"
   email            : ""
   logo             : "/images/blackboxglow.jpg" # path of site logo, e.g. "/assets/images/logo.png"
   links:
+    - label: "Linkin"
+      icon: ""
+      url: "https//linkedin.com/in/chux-o"
     - label: ""
       icon: ""
-      # url: mailto:your.name@email.com
-    - label: "Linkin"
-      icon: "www.linkedin.com/in/chux-o"
       # url: "https://your-website.com"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
@@ -286,7 +286,7 @@ defaults:
       author_profile: true
       read_time: true
       permalink: /:year/:month/:day/:title/
-      comments: # true
+      comments: true
       share: true
       related: true
 

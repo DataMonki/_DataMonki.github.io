@@ -51,6 +51,4 @@ If companies collaborate it’s possible to have more real-time and up-to-date i
 
 We are steadily moving toward a world where data is immense, linked, cheap, noisy and shared an this is going to disrupt the status quo of business and economies that don't anticipate treads and changes and adapt accordingly; so make sure you and your business is ready.
 
-Hope this helps...
-
-&nbsp;
+_Hope this helps..._
