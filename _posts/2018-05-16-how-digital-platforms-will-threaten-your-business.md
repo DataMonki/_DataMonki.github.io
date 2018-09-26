@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "How Digital Platforms will Threaten your Business"
 date: 2018-05-16 11:33
 author: Chukwuka Orefo

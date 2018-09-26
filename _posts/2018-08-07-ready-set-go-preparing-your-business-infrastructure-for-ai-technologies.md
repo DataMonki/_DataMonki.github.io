@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "Preparing your Business for Artificial Intelligence"
 date: 2018-08-07 13:04
 author: Chukwuka Orefo

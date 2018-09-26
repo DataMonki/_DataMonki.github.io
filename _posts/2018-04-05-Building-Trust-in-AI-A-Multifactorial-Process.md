@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: Building Trust in AI --A Multifactorial Process
 date: 2018-04-18 20:03
 author: Chukwuka Orefo

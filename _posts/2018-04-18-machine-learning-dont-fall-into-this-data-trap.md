@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "Machine Learning & Big Data --Don't Fall for this Data Trap"
 date: 2018-04-18 20:03
 author: Chukwuka Orefo

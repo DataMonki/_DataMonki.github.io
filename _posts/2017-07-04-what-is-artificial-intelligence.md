@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "What is Artificial Intelligence?"
 date: 2017-07-04 16:17
 author: Chukwuka Orefo
@@ -8,7 +8,7 @@ categories: [AI, Artificial Intelligence, Business, Technology]
 ---
  # __Demystified: What is Artificial Intelligence?__
 
- ![](https://apragmatic.files.wordpress.com/2018/08/null1.png) 
+ ![](https://apragmatic.files.wordpress.com/2018/08/null1.png)
 
 The easiest way to think about artificial intelligence (AI) is in the context of a human cognition, after all humans are arguably the most intelligent creatures that we know of.
 

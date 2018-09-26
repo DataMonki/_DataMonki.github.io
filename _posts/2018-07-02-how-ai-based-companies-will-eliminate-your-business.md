@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "How AI Based Companies will Eliminate your Business"
 date: 2018-07-02 11:01
 author: Chukwuka Orefo

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "Demystify Machine Learning"
 date: 2017-06-06 21:39
 author: Chukwuka Orefo
