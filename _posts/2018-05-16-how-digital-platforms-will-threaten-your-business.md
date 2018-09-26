@@ -6,7 +6,6 @@ author: Chukwuka Orefo
 comments: true
 categories: [Artificial Intelligence, Business, Business Intelligence, Digital Platfroms, Technology]
 ---
-# __How Digital Platforms will Threaten your Business__
 
 ![Digital Platforms will Threaten your Business1](https://apragmatic.files.wordpress.com/2018/08/done-_how-can-a-digital-platform-like-uber-threaten-allstate-insurance_html_9bb35da6f962a0471.png "Done-How can a Digital Platform like Uber Threaten AllState Insurance" width="1080" height="675"")
 

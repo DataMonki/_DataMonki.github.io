@@ -8,7 +8,6 @@ header:
   image: /images/AI_and_Consumers.png
 categories: [AI, Artificial Intelligence, Business, Technology, Policy, Governance]
 ---
-# __Building Trust in AI: A Multifactorial Process__
 ![Building trust in AI](/images/AI_and_Consumers.png "Building trust in AI")
 
 Today AI and machine learning systems and their algorithms continue to permeate areas of social and economic decision-making, steadily replacing traditional systems and social structures which have traditionally been left to human judgment.

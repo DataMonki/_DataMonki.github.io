@@ -6,7 +6,6 @@ author: Chukwuka Orefo
 comments: true
 categories: [AI, Artificial Intelligence, Business, Technology]
 ---
- # __Demystified: What is Artificial Intelligence?__
 
  ![](https://apragmatic.files.wordpress.com/2018/08/null1.png)
 

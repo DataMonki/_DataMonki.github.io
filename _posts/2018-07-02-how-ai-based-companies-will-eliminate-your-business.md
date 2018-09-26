@@ -6,8 +6,7 @@ author: Chukwuka Orefo
 comments: true
 categories: [AI, Artificial Intelligence, Business]
 ---
-&nbsp;
-# __How AI Based Companies will Eliminate your Business__
+
 <img class="alignnone size-full wp-image-59" src="https://apragmatic.files.wordpress.com/2018/08/how-companies-can-use-ai-to-eliminate-yours.png" alt="How companies can use AI to eliminate yours.png"/>
 
 When the internet became big and viable for businesses both Macy’s and Amazon used it just a different ways. Macy's created a portal for people to shop at their store. Amazon created a completely new business model of shopping. While Macy’s had retail stores and therefore employees to pay, rent to pay and lights to keep on Amazon had none of this worry about.

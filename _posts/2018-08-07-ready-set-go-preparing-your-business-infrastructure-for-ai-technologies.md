@@ -6,8 +6,6 @@ author: Chukwuka Orefo
 comments: true
 categories: [Uncategorized]
 ---
-# __Preparing your Business for Artificial Intelligence__
-
 <div>![business-prepare](/images/how-should-your-business-prepare-for-the-ai.png)</div>
 
 80% of CEOs  are concerned about AI but are hesitant to jump right in. For some digital businesses AI is their main product (Amazons and Google) and as such AI is integral to their business operations.

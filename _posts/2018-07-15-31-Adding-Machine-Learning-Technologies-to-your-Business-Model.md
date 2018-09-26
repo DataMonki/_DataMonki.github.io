@@ -6,7 +6,6 @@ author: Chukwuka Orefo
 comments: true
 categories: [Artificial Intelligence, Business, Business Intelligence, Technology]
 ---
-# __Adding Machine Learning Technologies to Your Business Model__
 
 ![Adding Machine Learning Technologies to Your Business Modeli7](/images/image7.png)
 
