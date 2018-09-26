@@ -25,12 +25,12 @@ Let’s say that the machine found the underlying pattern for the competitor dat
 
 We can now run the same experiment with your own company's data. Now let’s say your analysis produces the following results below:
 
- ![](https://apragmatic.files.wordpress.com/2018/08/compettor4.png "compettor4.png")
+![](https://apragmatic.files.wordpress.com/2018/08/compettor4.png "compettor4.png")
 
 If your expense ratio is comparable to your competitors then you know that you're capturing the younger and senior segments of the population and your competitor is capturing the middle age group with this information. Armed with this knowledge you can make some business decisions on how to penetrate the middle-age market. Perhaps you can add more risk factors to this segment to get more accuracy or perhaps you want to leave it the way it is because you believe that the risk estimation that you're doing is more accurate than your competitors and if you lower the risk anymore you'll be losing money.
 
 
-<img class="alignnone size-full wp-image-187" src="![](https://apragmatic.files.wordpress.com/2018/08/compettor51.png "compettor5.png" width="920" height="630")
+![](https://apragmatic.files.wordpress.com/2018/08/compettor51.png "compettor5.png" width="920" height="630")
 
 
  ![](https://apragmatic.files.wordpress.com/2018/08/compettor6.png "compettor6.png" width="916" height="618")
