@@ -19,7 +19,7 @@ We have the basic statistical methods that help us determine the probability and
 [Machine learning with Bayes]
 
 
-__Predictive analytics:__ This is used to make predictions with regression methods. You could use this method to estimate sales that result from the dollar you spend on say a marketing program.</div>
+__Predictive analytics:__ This is used to make predictions with regression methods. You could use this method to estimate sales that result from the dollar you spend on say a marketing program.
 
 ![Adding Machine Learning Technologies to Your Business Modeli2](/images/Add Machine Learning to Your Business Model2.png "Predictive analytics")
 
