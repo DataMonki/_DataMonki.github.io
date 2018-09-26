@@ -104,7 +104,7 @@ analytics:
 author:
   name             : "Chukwuka Orefo"
   avatar           : "/images/chuxorefo.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Research & Technical Advisor"
+  bio              : "Research & Technical Adviser"
   location         : "London"
   email            : ""
   logo             : "/images/blackboxglow.jpg" # path of site logo, e.g. "/assets/images/logo.png"
@@ -282,7 +282,7 @@ defaults:
       path: ""
       type: posts
     values:
-      layout: 
+      layout:
       author_profile: true
       read_time: true
       permalink: /:year/:month/:day/:title/
