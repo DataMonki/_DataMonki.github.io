@@ -6,7 +6,6 @@ author: Chukwuka Orefo
 comments: true
 categories: [Uncategorized]
 ---
-# __Does your Business Need A Chief AI Officer?__
 
 ![Chief AI Officer Acronym](/images/caio.png "Chief AI Officer Acronym")
 

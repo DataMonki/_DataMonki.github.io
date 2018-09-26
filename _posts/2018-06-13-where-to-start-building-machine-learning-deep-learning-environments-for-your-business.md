@@ -6,13 +6,12 @@ author: Chukwuka Orefo
 comments: true
 categories: [AI, Artificial Intelligence, Technology]
 ---
-# __Where to start? Building Machine Learning & Deep Learning Environments for your Business__
 
-![machine learning & deep learning environments for your business2](/images/where to start... building machine learning & deep learning environments for your business2.png "where to start")
+![machine learning & deep learning environments for your business2](/images/where%20to%20start...%20building%20machine%20learning%20&%20deep%20learning%20environments%20for%20your%20business2.png "where to start")
 
 Whether you're a manager setting up machine learning team or new machine learning practitioner getting started, you need to setup a good machine learning and, or deep learning environment.
 
-![deep learning environments for your business](/images/where to start... building machine learning & deep learning environments for your business.png "many roads")
+![deep learning environments for your business](/images/where%20to%20start...%20building%20machine%20learning%20&%20deep%20learning%20environments%20for%20your%20business.png "many roads")
 
 There are so many choices out there so it can be a bit confusing at first and you could spend hours if not days trying to figure out the best configuration.
 
@@ -23,7 +22,7 @@ The best programming language for getting started with machine learning to date 
 
 On top of Python you would have <a href="http://www.numpy.org/"><span style="color:#1155cc;"><u><b>Numpy</b></u></span></a> which is a numerical package. Numpy  isuseful for things like matrix multiplication. On top of Numpy you have <a href="https://www.scipy.org/"><span style="color:#1155cc;"><u><b>SciPy</b></u></span></a> a scientific package and it's again is also very useful for machine learning. There's also a framework for machine learning that sits on top of SciPy and it's called <a href="http://scikit-learn.org/"><span style="color:#1155cc;"><u><b>Scikit-learn</b></u></span></a>. This is the most common machine learning framework.
 
-![deep learning environments for your business10](/images/where to start... building machine learning & deep learning environments for your business10.png "machine learning stack")
+![deep learning environments for your business10](/images/where%20to%20start...%20building%20machine%20learning%20&%20deep%20learning%20environments%20for%20your%20business10.png "machine learning stack")
 
 While machine learning can be used for most of the traditional algorithms, there is a framework called <a href="https://www.tensorflow.org/"><span style="color:#1155cc;"><u><b>Tensorflow</b></u></span></a> which is useful for deep learning.  There are a couple of other frameworks for deep learning such as <a href="http://caffe.berkeleyvision.org/"><span style="color:#1155cc;"><u>Caffe</u></span></a> and <a href="http://deeplearning.net/software/theano/"><span style="color:#1155cc;"><u>Theano</u></span></a> but for this environment we're not going to consider these as Tensorflow is a good enough substitute.
 
@@ -33,33 +32,35 @@ On top of Tensorflow you could have <a href="https://keras.io/"><span style="col
 
 If you want to do any kind of machine vision or computer vision then <a href="https://opencv.org/"><span style="color:#1155cc;"><u><b>OpenCV</b></u></span></a> is a good package built just for this purpose. The package is built on the C programming language however it has been integrated with Python with wrappers so you can access OpenCV through Python.
 
-![deep learning environments for your business4](/images/where to start... building machine learning & deep learning environments for your business4.png "opencv with python")
+![deep learning environments for your business4](/images/where%20to%20start...%20building%20machine%20learning%20&%20deep%20learning%20environments%20for%20your%20business4.png "opencv with python")
 
 If you want to start using natural language processing then there are packages such as Correll NLP that's built on top of Java but just like OpenCV it has it can be invoked through Python because it has wrappers for Python.
 
 There's another library for speech recognition which is called speech recognition and that can also be used if you are interested in that.
 
 So as you can see there are multiple libraries and packages in the ecosystem that one can incorporate into a machine learning or deep learning environment.
-<h2>Data Input</h2>
+
+### __Data Input__
 Because both machine learning and deep learning consume a lot of data we must have a way of feeding our algorithms with this data.
-<h4><strong>So where does this data come?</strong></h4>
+
+#### _So where does this data come?_
 Well it can come from several locations such as a CSV file. There are number of tools that can handle a CSV file one of them being a standard text editor. Another of data could be a spreadsheet such as those found in Microsoft Excel file. Another data source could be a relational database such as SQL or Oracle. Another potential source of data could be a binary JSON file. <a href="https://www.mongodb.com/"><span style="color:#1155cc;"><u>MongoDB</u></span></a> is one such tool that can read and write JSON files. Your data could also be stored on a distributed file system which Hadoop can handle.
 
-![deep learning environments for your business5](/images/where to start... building machine learning & deep learning environments for your business5.png "machine learning stack")
+![deep learning environments for your business5](/images/where%20to%20start...%20building%20machine%20learning%20&%20deep%20learning%20environments%20for%20your%20business5.png "machine learning stack")
 <h2>Premium Services</h2>
 Amazon has conveniently packaged a lot of the systems discussed here into their <a href="https://aws.amazon.com/"><span style="color:#1155cc;"><u>Amazon Web Services</u></span></a> so it's much more convenient for you want to use it. In fact you could even use one of their databases or data storage service which is a simple storage service to manage the data.
 
-![deep learning environments for your business6](/images/where to start... building machine learning & deep learning environments for your business6.png "machine learning stack")
+![deep learning environments for your business6](/images/where%20to%20start...%20building%20machine%20learning%20&%20deep%20learning%20environments%20for%20your%20business6.png "machine learning stack")
 
 There are other machine learning service providers as well such as the <a href="https://cloud.google.com/"><span style="color:#1155cc;"><u>Google </u></span></a>cloud platform.
 
-![deep learning environments for your business7](/images/where to start... building machine learning & deep learning environments for your business7.png "machine learning with google cloud platform")
+![deep learning environments for your business7](/images/where%20to%20start...%20building%20machine%20learning%20&%20deep%20learning%20environments%20for%20your%20business7.png "machine learning with google cloud platform")
 So then with all that said and done you might be wondering how you would go about installing all this tech building software conveniently. Well I have you covered on that too!
 
-![deep learning environments for your business8](/images/where to start... building machine learning & deep learning environments for your business8.png "anaconda programing & package")
+![deep learning environments for your business8](/images/where%20to%20start...%20building%20machine%20learning%20&%20deep%20learning%20environments%20for%20your%20business8.png "anaconda programing & package")
 
 If you install <a href="https://anaconda.org/"><span style="color:#1155cc;"><u><b>Anaconda</b></u></span></a> you will get most of these packages. Anaconda includes in its installation as standard Python Numpy and SciPy. If you want to install additional packages it's a pretty simple steps to follow in their instructions manual. To install packages such as Scikit-learn, Tensorflow and Keras all you have to do is a give a simple command like
 
 <b>pip install</b> <b>&lt;Package name-version&gt;</b> <b>. </b>Anaconda also provides you is an installation of a simple easy-to-use web-based interface to interact with this whole ecosystem and that's the <a href="http://jupyter.org/"><span style="color:#1155cc;"><u>Jupyter notebook</u></span></a> which allows you to write code and script keeping all your code and comments and everything else together.
 
-_Hope this helps...._
+_Hope this helps..._

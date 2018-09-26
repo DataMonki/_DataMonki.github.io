@@ -19,7 +19,7 @@ I'll try to help the ones that want to do something but don't know where to star
 
 Let’s so say you work for an airline company, you sell tickets to customers across the country.
 
-<div>![business prepare for the AI2](/images/How should your business prepare for the AI2.png)</div>
+<div>![business prepare for the AI2](/images/How%20should%20your%20business%20prepare%20for%20the%20AI2.png)</div>
 
 Your customers may have questions like:
 <ul>
@@ -47,7 +47,7 @@ Customers might want to use the web, the mobile app or a phone to contact your c
 	<li>To be able to roll this out in a short time frame like 3 to 6 months.</li>
 </ul>
 
-![business prepare for the AI3](/images/How should your business prepare for the AI3.png)
+![business prepare for the AI3](/images/How%20should%20your%20business%20prepare%20for%20the%20AI3.png)
 
 You will already have much of the data required for AI so that’s less time trying to figure out what data to collect in the first place. Moreover integration of AI with your backend system should be simple and not a long drawn out complicated process. The approach to AI you initially want to take is that It should be isolated so that if things crash it does not bring your whole company to a standstill.
 
