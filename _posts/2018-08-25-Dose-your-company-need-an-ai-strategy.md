@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "Does Your Company Need an AI Strategy?"
-date: 28-08-25 18:00
+date: 2018-08-25 18:00
 author: Chukwuka Orefo
 comments: true
 image:
