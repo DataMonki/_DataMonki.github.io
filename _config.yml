@@ -24,7 +24,7 @@ url                      : # the base hostname & protocol for your site e.g. "ht
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 logo                     : "/images/blackboxglow.jpg" # path of site logo, e.g. "/assets/images/logo.png"
-teaser                   : "/images/blackboxglow.jpg" # path of fallback teaser image, e.g. "/assets/images/500x300.png"
+teaser                   : "/images/banner.jpg" # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 breadcrumbs              : true # true, false (default)
 words_per_minute         :
 comments:
