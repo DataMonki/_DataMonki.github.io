@@ -106,7 +106,7 @@ author:
   avatar           : "/images/chuxorefo.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Research & Technical Adviser"
   location         : "London"
-  email            : ""
+  email            : 
   logo             : "/images/blackboxglow.jpg" # path of site logo, e.g. "/assets/images/logo.png"
   links:
     - label: "Linkin"
