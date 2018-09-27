@@ -1,13 +1,13 @@
 ---
 layout: single
-title: "Building Trust: Trusting in the Algorithm"
+title: "Building Trust in AI Part II: Trusting the Algorithm"
 date: 2018-04-6 20:03
 author: Chukwuka Orefo
 comments: true
 categories: [AI, Artificial Intelligence, Business, Policy, Technology]
 ---
-![](/images/AI_and_Consumers.png)
-<br/>
+![](/images/How-the-Convergence-of-AI-and-Blockchain-will-Result-in-Increased-Efficiency-and-Trust-datafloq.jpg)
+
 There is a need to evaluate a machine learning model as a whole before deploying it “in the wild”. Users need to be confident that the model will perform well on real-world data; and according to the metrics of interest. Currently, models are evaluated using accuracy metrics on an available validation datasets. However, real-world data is often significantly different. Furthermore, the evaluation such metrics may not be indicative of the product’s intended goal. Thus the thorough inspection of individual predictions and their explanations before deployment is a worthwhile solution. There are aspects related to the design of machine learning model that can have inbuilt bias. One such bias is the bias function of an estimator.
 
 ### _Estimator bias function_
