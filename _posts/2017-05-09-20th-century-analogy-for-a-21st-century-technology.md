@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "20th Century Analogy for a 21st Century Technology"
 date: 2017-05-09 16:07
 author: Chukwuka Orefo
