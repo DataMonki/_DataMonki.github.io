@@ -7,7 +7,7 @@ comments: true
 categories: [AI, Artificial Intelligence, Technology]
 ---
 
-![](/images/WhereBusiness2.png)
+![image-error](/images/WhereBusiness2.png)
 
 Whether you're a manager setting up machine learning team or new machine learning practitioner getting started, you need to setup a good machine learning and deep learning environment.
 
