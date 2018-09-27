@@ -32,7 +32,7 @@ Let’s say you run a 24 hour retail store selling groceries and you have reliab
 
 
 ![](/images/dont-fall-into-that-trap2.png "ML 24 hour retail data analysis")
- *Data analysis of 24 hour retail store*
+*Data analysis of 24 hour retail store*
 
 So decide you want to have your new impressive algorithm  figure out when the best time is to open the store for business. So you feed said machine learning algorithm with data. If figures out that most of your business occurs is in the mid morning and late afternoons. So based on these results you decide to close the store during the non busy hours as that's what the machine learning algorithm told you and that's great.
 
