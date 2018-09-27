@@ -19,6 +19,7 @@ Companies are building a digital platforms and using them to bring communities t
 Amazon has a platform that brings buyers and sellers together. Buyers buy products and write reviews of the products they've purchased which in turn provides value to other buyers. So new buyers flock to the platform and in turn bring more sellers from their reviews. In this community of buyers and sellers both find value and as a result the network grows exponentially.
 
 ![Amazon](/images/HowInsurance.png "Amazon" )
+
 *amazon and their network of buyers and sellers*
 
 
@@ -26,18 +27,21 @@ Amazon has a platform that brings buyers and sellers together. Buyers buy produc
 Facebook also has a digital platform for people and their friends to share information with each other advertisers are now attractive to the platform because of the value it brings them.
 
 ![Facebook](/images/HowInsurance2.png "facebook")
+
 *Facebook a social space for sharing information with friends, family and hosting business promotions*
 
 ### _LinkedIn_
 LinkedIn provides a digital platform where its members can establish strong networks and showcase their professional side. Because of this companies that want to hire talent flock to the platform.
 
 ![LinkedIn](/images/HowInsurance3.png "LinkedIn")
+
 *LinkedIn a networks of potential employable via a digital CV*
 
 ### _Netflix_
 Netflix is a platform where paid subscribers watch movies and they get movie recommendations based on what other people with similar interest watch here the platform matches its subscribers with movies and then they read these movies which help other subscribers that's valuable!
 
 ![Netflix](/images/HowInsurance4.png "Netflix")
+
 *Netflix a new form of bespoke media consumption*
 
 ##### ***Some digital platforms however haven't been so successful...***
@@ -46,6 +50,7 @@ Netflix is a platform where paid subscribers watch movies and they get movie rec
 Monster.com brought employers and job seekers together but ended up with so much junk that it was difficult for either group to sift through the content to find what they wanted. The platform did not have any intelligence and so it lost its mojo!
 
 ![Monster](/images/HowInsurance5.png "Monster")
+ 
 *Monster.com a complicated digital platform*
 
 A good platform provides a lot more value than just membership. Over time a platform can accumulates a lot of data. If such a platform can figure out what data to deliver and when then it's got a ***secret sauce!*** Companies are now using machine learning and artificial intelligence to do just that. If AI implemented well then the network grows and the network becomes even more valuable. It is this relevance that keeps its members engaged and coming back.
