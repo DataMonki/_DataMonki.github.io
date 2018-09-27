@@ -30,15 +30,18 @@ Closely related to responsibility business need to think about where it's going 
 
 ## __Transparency__
 
-Which gets into explainable as well. When is it okay for a machine to decide something and you have not to know? As humans we are black boxes even to our selves but evolution has provided us with social cues that enable us to trust and interact with each other. To establish trust between in AI and your customers your business needs to follow rules and regulations and best practices are very important.
-where does it come from, who is it collected, governance, storage algorithms - they are black boxes; governance, Regulation and codes of conduct
+Which gets into explainable as well. When is it okay for a machine to decide something and you have not to know? As humans we are black boxes even to our selves but evolution has provided us with social cues that enable us to trust and interact with each other. To establish trust between in AI and your customers your business needs to follow rules and regulations and best practices are very important. In addition collectively we must pursue methods and techniques which help guide the principle of the AI technology as to you the machine has reached a conclusion. A paper published in 2016 by [*Ribeiro, et al;*](https://arxiv.org/abs/1602.04938) from the University of Washington titled Why Should I Trust You: Explaining the Predictions of Any Classifier explores such methods.  
 
 
 ## __Fairness__
 
-There's a big issue with data being biased. Failure to screen your data for bias only increases the odds that your data contains unwanted biases. In today's society biased data will put a companies reputation at as well as its consumers at risk. That's unacceptable. We need to make sure that fairness is enforced.
+There's a big issue with data being biased. Failure to screen your data for bias only increases the odds that your data contains unwanted biases. In today's society biased data will put a companies reputation at as well as its consumers at risk. That's unacceptable. We need to make sure that fairness is enforced. I discuss this to some detail my post: [Building trust in AI](https://blackboxlabs.github.io/2018/04/18/Building-Trust-in-AI-A-Multifactorial-Process/)
 
 
 ## __Honesty__
 
- It wouldn't too difficult to build AI systems that can take advantage of grey areas and loopholes in law and legislation. Instead we should be designing our AI systems to be honest and follow the rules that we've set for society instead of gaming the system. Let's say example  your company is building self-driving car or perhaps a car with AI sensing technology embedded inside. Such as car should follow the speed limit. However this can probably, very easily sense where the traffic zones are, where the speed cameras are, as well as the police and from that data  and game the system, but it shouldn't. 
+ It wouldn't too difficult to build AI systems that can take advantage of grey areas and loopholes in law and legislation. Instead we should be designing our AI systems to be honest and follow the rules that  set in and for business society instead of gaming the system. Let's say example  your company is building self-driving car or perhaps a car with AI sensing technology embedded inside. Such as car should follow the speed limit. However it's not impossible consider an AI embedded technology that can sense where the traffic zones speed cameras and police are; and then from that data  and game the system in order to drive fast and recklessly without getting caught. There will of course be a market for such a device and it will take a while for governments to take wind of it. However it's important to consider that just because something can be build doesn't mean it should be.
+
+ These are pretty good starting point values for any Chief AI officer to consider no matter what filed they stem from.
+
+_hope this helps..._
