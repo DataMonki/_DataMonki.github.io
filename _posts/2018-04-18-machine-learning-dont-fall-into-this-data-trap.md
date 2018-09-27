@@ -6,8 +6,9 @@ author: Chukwuka Orefo
 comments: true
 categories: [AI, Artificial Intelligence, Business, Technology]
 ---
-<section>
-![oops no image!](/images/null.png "data from star trek caught with his fingers caught in a trap")<div> *Data from star-trek caught in a trap...*</div></section>
+
+![oops no image!](/images/null.png "data from star trek caught with his fingers caught in a trap")
+ *Data from star-trek caught in a trap...*
 
 <br/>
 Many organizations are too impatient they jump into machine learning without proper market research. Instead it's best to think things through --so let's start here: There are three broad categories to machine learning.
@@ -20,24 +21,26 @@ Many organizations are too impatient they jump into machine learning without pro
 
 The algorithms and Machines can be provided by any one of the many partner companies such as Amazon and Google. But the data used to train an algorithm has to --in part come from your organization and hence why the data is the most important and is your organizations' competitive advantage.
 
-<section>
-![](/images/dont-fall-into-that-trap.png "your data is the most important thing")<div>*Data is your competitive advantage* </div></section>
+
+![](/images/dont-fall-into-that-trap.png "your data is the most important thing")
+*Data is your competitive advantage*
 
 Naturally you have to have enough data as well as the right kind of data to feed into your algorithms. Now assuming you have that  it’s also important to think through what you're doing with machine learning...
 
 ## __Scenario__
 Let’s say you run a 24 hour retail store selling groceries and you have reliable data about when your customers visit your store and how much they spend.
 
-<section>
-![](/images/dont-fall-into-that-trap2.png "ML 24 hour retail data analysis") <div> *Data analysis of 24 hour retail store*</div></section>
-<br/>
+
+![](/images/dont-fall-into-that-trap2.png "ML 24 hour retail data analysis")
+ *Data analysis of 24 hour retail store*
 
 So decide you want to have your new impressive algorithm  figure out when the best time is to open the store for business. So you feed said machine learning algorithm with data. If figures out that most of your business occurs is in the mid morning and late afternoons. So based on these results you decide to close the store during the non busy hours as that's what the machine learning algorithm told you and that's great.
 
 Now fast-forward about three years. The economy has changed and now many people don't hold your standard 9-5 job instead they have much more flexible schedules and so most people now prefer to shop late at night when they can get their shopping done and out of the way in order to do more important things during the day.
 
-<section>
-![](/images/dont-fall-into-that-trap3.png)<div> *Missing data = missing insights*</div></section>
+
+![](/images/dont-fall-into-that-trap3.png)
+ *Missing data = missing insights*
 
 Well now you don't have any data covering the full 24 hour life cycle so no machine learning algorithm can infer about this new trend and give you an updated recommendation to keep your store open late at night. As you can see from this example no machine can make up for the data that you lost.
 

@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "Understand Your Competitors with AI"
+title: "Understanding Your Competitors with AI"
 date: 2018-02-13 03:15
 author: Chukwuka Orefo
 image:  
