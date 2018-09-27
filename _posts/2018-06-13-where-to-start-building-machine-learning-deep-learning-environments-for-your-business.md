@@ -57,7 +57,7 @@ So then with all that said and done you might be wondering how you would go abou
 
 ![deep learning environments for your business8](/images/wherebusiness8.png "anaconda programing & package")
 
-If you install [*Anaconda*]https://anaconda.org/() you will get most of these packages. Anaconda includes in its installation as standard Python Numpy and SciPy. If you want to install additional packages it's a pretty simple steps to follow in their instructions manual. To install packages such as Scikit-learn, Tensorflow and Keras all you have to do is a give a simple command like
+If you install [*Anaconda*](https://anaconda.org/) you will get most of these packages. Anaconda includes in its installation as standard Python Numpy and SciPy. If you want to install additional packages it's a pretty simple steps to follow in their instructions manual. To install packages such as Scikit-learn, Tensorflow and Keras all you have to do is a give a simple command like
 
 __pip install:__ *Package name-version*. Anaconda also provides an installation of a simple easy-to-use web-based interface to interact with this whole ecosystem and that's the [*Jupyter notebook*](http://jupyter.org/) which allows you to write code and script keeping all your code and comments and everything else together.
 
