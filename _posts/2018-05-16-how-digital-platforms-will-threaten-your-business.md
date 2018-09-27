@@ -7,7 +7,7 @@ comments: true
 categories: [Artificial Intelligence, Business, Business Intelligence, Digital Platfroms, Technology]
 ---
 
-![Digital Platforms will Threaten your Business1](https://apragmatic.files.wordpress.com/2018/08/done-_how-can-a-digital-platform-like-uber-threaten-allstate-insurance_html_9bb35da6f962a0471.png "Done-How can a Digital Platform like Uber Threaten AllState Insurance" width="1080" height="675"")
+![Digital Platforms will Threaten your Business1](https://apragmatic.files.wordpress.com/2018/08/done-_how-can-a-digital-platform-like-uber-threaten-allstate-insurance_html_9bb35da6f962a0471.png "Done-How can a Digital Platform like Uber Threaten AllState Insurance")
 
 
 __There are a new breed of companies on the rise whose business are solely based as a digital platforms.__
@@ -50,12 +50,12 @@ Monster.com brought employers and job seekers together but ended up with so much
 
 A good platform provides a lot more value than just membership. Over time a platform can accumulates a lot of data. If such a platform can figure out what data to deliver and when then it's got a ***secret sauce!*** Companies are now using machine learning and artificial intelligence to do just that. If AI implemented well then the network grows and the network becomes even more valuable. It is this relevance that keeps its members engaged and coming back.
 
-![Uber a Golden Standard](/images/How%20can%20a%20Digital%20Platform%20like%20Uber%20Threaten%20AllState%20Insurance6.png "")
+![Uber a Golden Standard](/images/How%20can%20a%20Digital%20Platform%20like%20Uber%20Threaten%20AllState%20Insurance6.png)
 
 ### _Uber a Golden Standard_
 Uber provides a platform that brings drivers and riders together not only for the ride but also for the ability to use maps to not have to carry around cash as well as rate drivers and riders.
 
-![Uber a Golden Standard](/images/How%20can%20a%20Digital%20Platform%20like%20Uber%20Threaten%20AllState%20Insurance7.png "")
+![Uber a Golden Standard](/images/How%20can%20a%20Digital%20Platform%20like%20Uber%20Threaten%20AllState%20Insurance7.png)
 
 Uber is now in a position to attract insurance companies to offer bids on insurance for each ride. This make sense once one realizes that Uber has information about its riders and even more information about its drivers and so can therefore provide automatic insurance coverage for each ride. All this can be facilitated by machine learning. Companies like Allstate and other insurance companies can of course offer ride based insurance but there's the catch, they'll now have to compete with each other based on the data that Uber owns. This gives Uber a huge competitive advantage. This scenario should scare insurance companies because now they're at the mercy of Uber which has enhanced its platform as a competitive advantage. Uber is only going to keep investing in its platform. Given this how does an insurance company counteract this platform network effect? One option is for insurance companies to each build a platform of their own. Another option is to be ready to compete in the platform network ecosystem. These are essentially two vastly different strategies and depending on what strategy company chooses they will have to build capabilities to deliver to those strategies. However digital platforms like Uber are much faster along their digital journey and so are closer to adopting now technologies such as blockchain in turn further outpacing those companies how have yet to even start their digital journey. Learn what works from Uber, Netflix and Amazon and remember what doesn't from failed digital platforms such monster.com  
 
