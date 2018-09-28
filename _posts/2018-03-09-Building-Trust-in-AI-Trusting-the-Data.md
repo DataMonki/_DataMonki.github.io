@@ -7,6 +7,7 @@ comments: true
 categories: [AI, Artificial Intelligence, Business, Technology, Policy, Governance]
 ---
 ![](/images/can-we-trust-the-data.jpg)
+
 Training data and training features are central to any machine learning project. Machines are learning, but what’s it being taught and who’s teaching it? This matters because machines don’t bring prior experience, contextual beliefs to the class room so to speak. Instead they only learn from what is shown them in the class room from the textbook of data --and like our highly opened minded and idealistic youth, machine learning algorithms aren't much in the way of critical thinkers. In machine learning the “training data” aka the textbook of some data you’ve examined and labeled accordingly with the answer you want is what you show to your software to teach it how to make decisions. Often this collection of historical data used to training machine learning algorithms is riddled with all sort of one sided personal bias, cultural, geographical and biological biases endorsed with varying degrees of naiveté by those who train the data. Teacher decides what questions to ask, and tells machine learners what matters the teacher is responsible for “feature selection.
 
 ######  _The solution? rigorous scientific methodology and diversity of perspectives poured into the data collection process._
