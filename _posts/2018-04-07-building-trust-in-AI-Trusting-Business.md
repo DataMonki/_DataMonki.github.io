@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "Building Trust in AI Part III: Trust in Business"
+title: "Building Trust in AI Part IIII: Trust in Business"
 date: 2018-04-6 20:03
 author: Chukwuka Orefo
 comments: true
