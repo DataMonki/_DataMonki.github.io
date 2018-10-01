@@ -4,7 +4,7 @@ title: "How Digital Platforms will Threaten your Business"
 date: 2018-05-16 11:33
 author: Chukwuka Orefo
 comments: true
-categories: [Artificial Intelligence, Business, Business Intelligence, Digital Platfroms, Technology]
+categories: [Artificial Intelligence, Business, Business Intelligence, Digital Platforms, Technology]
 ---
 
 ![Digital Platforms will Threaten your Business1](https://apragmatic.files.wordpress.com/2018/08/done-_how-can-a-digital-platform-like-uber-threaten-allstate-insurance_html_9bb35da6f962a0471.png "Done-How can a Digital Platform like Uber Threaten AllState Insurance")
@@ -50,7 +50,7 @@ Netflix is a platform where paid subscribers watch movies and they get movie rec
 Monster.com brought employers and job seekers together but ended up with so much junk that it was difficult for either group to sift through the content to find what they wanted. The platform did not have any intelligence and so it lost its mojo!
 
 ![Monster](/images/HowInsurance5.png "Monster")
- 
+
 *Monster.com a complicated digital platform*
 
 A good platform provides a lot more value than just membership. Over time a platform can accumulates a lot of data. If such a platform can figure out what data to deliver and when then it's got a ***secret sauce!*** Companies are now using machine learning and artificial intelligence to do just that. If AI implemented well then the network grows and the network becomes even more valuable. It is this relevance that keeps its members engaged and coming back.
