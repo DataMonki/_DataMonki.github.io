@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "AI, One Size Fits All: Can AI really fix a Broken Process?"
+title: "AI --One Size Fits All: Can AI Really Fix A Broken Process?"
 date: 2018-10-01 09:00
 author: Chukwuka Orefo
 categories: [Artificial Intelligence, career, Digital Platforms, future, jobs, Technology]
