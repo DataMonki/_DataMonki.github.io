@@ -41,7 +41,7 @@ The CEO and manager of the dental clinics put their heads together and decide th
 ### _The Result_
 After the upgrade the patient process still remains the same but now instead of a person entering the data; the system automatically scans and recognises that text and puts it in the computer. The managers celebrate the success of the work. money well spent.
 
-### _A Second Look_
+### _A Closer Look_
 If we step back and think about the process more holistically you may realise that the process should have been fixed in the first place before considering an AI solution. Essentially nothing really changed except for one step which is now AI enabled. Instead of employing an AI system to solve their problem the dental company could have given patients a unique patient URL that would enable each patient to update their own personal information. If done correctly this would not only save the company money, time and resources but it could also be used to strengthening existing data protection policies which AI alone can not do.
 
 ### _The Moral of this Story_
