@@ -35,10 +35,9 @@ _"It is an interesting fact that the overwhelming majority of emotional and ment
 ![](/images\theUnconscious.png "The unconscious is the ocean from which all ice is made.")
 
 The unconscious is the ocean from which all ice is made.
-
 Dr. Sarno's work is primarily concerned with the conscious and the unconscious aspects of the mind. The subconscious is a fascinating area but it's only relevant to the extent that this is where learning takes place.
 
-In his books he describes the different personality traits that are common among TMS patients.
+In his book Healing Back Pain Dr. Sarno's describes the different types of personality traits that are common among TMS patients.
 
 * Perfectionists
 * People pleasers
