@@ -3,6 +3,7 @@ layout: single
 title: "Healing Back Pain: The Mind Body Perception"
 date: 2017-09-12 12:18
 author: Chukwuka Orefo
+categories: [Health, Mind, Body]
 ---
 ![](/images\Spinal-Cord-275x300.jpg)
 
