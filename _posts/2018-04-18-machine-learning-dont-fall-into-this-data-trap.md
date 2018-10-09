@@ -4,7 +4,7 @@ title: "Machine Learning & Big Data --Don't Fall for this Data Trap"
 date: 2018-04-18 20:03
 author: Chukwuka Orefo
 comments: true
-categories: [AI, Artificial Intelligence, Business, Technology]
+categories: [Artificial Intelligence, Business, Technology]
 ---
 
 ![oops no image!](/images/null.png "data from star trek caught with his fingers caught in a trap")

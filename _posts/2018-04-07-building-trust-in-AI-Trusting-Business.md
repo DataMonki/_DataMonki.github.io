@@ -4,7 +4,7 @@ title: "Building Trust in AI Part IIII: Trust in Business"
 date: 2018-04-6 20:03
 author: Chukwuka Orefo
 comments: true
-categories: [AI, Artificial Intelligence, Business, Policy, Technology]
+categories: [Artificial Intelligence, Business, Policy, Technology]
 ---
 ![](/images/yang-miao-548138-unsplash.jpg)
 

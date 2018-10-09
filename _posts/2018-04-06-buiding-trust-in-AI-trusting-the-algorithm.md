@@ -4,7 +4,7 @@ title: "Building Trust in AI Part II: Trusting the Algorithm"
 date: 2018-04-6 20:03
 author: Chukwuka Orefo
 comments: true
-categories: [AI, Artificial Intelligence, Business, Policy, Technology]
+categories: [Artificial Intelligence, Business, Policy, Technology]
 ---
 ![](/images/How-the-Convergence-of-AI-and-Blockchain-will-Result-in-Increased-Efficiency-and-Trust-datafloq.jpg)
 

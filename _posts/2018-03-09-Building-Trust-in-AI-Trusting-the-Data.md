@@ -4,7 +4,7 @@ title: "Building Trust in AI Part I: Trusting Data"
 date: 2018-03-18 20:34
 author: Chukwuka Orefo
 comments: true
-categories: [AI, Artificial Intelligence, Business, Technology, Policy, Governance]
+categories: [Artificial Intelligence, Business, Technology, Policy, Governance]
 ---
 ![](/images/can-we-trust-the-data.jpg)
 

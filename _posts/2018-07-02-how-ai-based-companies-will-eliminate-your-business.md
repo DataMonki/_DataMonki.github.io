@@ -4,7 +4,7 @@ title: "How AI Based Companies will Eliminate your Business"
 date: 2018-07-02 11:01
 author: Chukwuka Orefo
 comments: true
-categories: [AI, Artificial Intelligence, Business]
+categories: [Artificial Intelligence, Business]
 ---
 
 <img class="alignnone size-full wp-image-59" src="https://apragmatic.files.wordpress.com/2018/08/how-companies-can-use-ai-to-eliminate-yours.png" alt="How companies can use AI to eliminate yours.png"/>

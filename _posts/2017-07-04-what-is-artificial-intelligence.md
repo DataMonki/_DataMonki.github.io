@@ -4,7 +4,7 @@ title: "What is Artificial Intelligence?"
 date: 2017-07-04 16:17
 author: Chukwuka Orefo
 comments: true
-categories: [AI, Artificial Intelligence, Business, Technology]
+categories: [Artificial Intelligence, Business, Technology]
 ---
 ![](https://apragmatic.files.wordpress.com/2018/08/null1.png)
 

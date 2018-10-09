@@ -4,7 +4,7 @@ title: "Demystify Machine Learning"
 date: 2017-06-06 21:39
 author: Chukwuka Orefo
 comments: true
-categories: [AI, Artificial Intelligence, Business, Technology]
+categories: [Artificial Intelligence, Business, Technology]
 ---
 <b><img title="" src="https://apragmatic.files.wordpress.com/2018/08/null2.png" alt="" width="624"  /></b>
 

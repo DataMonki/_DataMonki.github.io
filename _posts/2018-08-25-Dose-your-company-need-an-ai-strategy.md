@@ -5,7 +5,7 @@ date: 2018-08-25 18:00
 author: Chukwuka Orefo
 comments: true
 image:
-categories: [AI, Artificial Intelligence, Business, Technology]
+categories: [Artificial Intelligence, Business, Technology]
 ---
 
 ![](/images/brain-to-text-mind-reading-620x264.jpg)

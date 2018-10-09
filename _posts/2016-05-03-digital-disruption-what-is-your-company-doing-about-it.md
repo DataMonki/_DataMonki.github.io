@@ -3,7 +3,7 @@ layout: single
 title: "Digital Disruption - Is your Business Prepared?"
 date: 2016-05-03 22:18
 author: Chukwuka Orefo
- categories: [Artificial Intelligence, career, Digital Platforms, future, jobs, Technology]
+ categories: [Artificial Intelligence, career, Digital Platforms, Future, Jobs, Technology]
 ---
 <b><img class=" aligncenter" title="" src="https://apragmatic.files.wordpress.com/2018/08/null.jpeg" alt="" width="624" height="416" /></b>
 <h2><b>VISION</b></h2>

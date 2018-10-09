@@ -4,7 +4,7 @@ title: "Does your Business Need A Chief AI Officer?"
 date: 2018-08-28 02:41
 author: Chukwuka Orefo
 comments: true
-categories: [Uncategorized]
+categories: [Business, Artificial Intelligence]
 ---
 
 ![Chief AI Officer Acronym](/images/caio.png "Chief AI Officer Acronym")

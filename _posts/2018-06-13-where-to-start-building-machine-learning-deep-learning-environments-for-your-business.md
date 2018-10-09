@@ -4,7 +4,7 @@ title: "Where to start? Building Machine Learning & Deep Learning Environments f
 date: 2018-06-13 11:01
 author: Chukwuka Orefo
 comments: true
-categories: [AI, Artificial Intelligence, Technology]
+categories: [Artificial Intelligence, Technology]
 ---
 
 ![image-error](/images/WhereBusiness2.png)
