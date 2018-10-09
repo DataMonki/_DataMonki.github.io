@@ -4,7 +4,7 @@ title: "Preparing For The Future --Is your career you future proof?"
 date: 2018-05-15 18:03
 author: Chukwuka Orefo
 comments: true
-categories: [Artificial Intelligence, career, future, Jobs, Life, Technology]
+categories: [Artificial Intelligence, Career, future, Jobs, Life, Technology]
 ---
 <img class="alignnone size-full wp-image-87" src="https://apragmatic.files.wordpress.com/2018/08/preparing-for-the-future-is-your-career-you-future-proof5.png" alt="Preparing For The Future is your career  you future proof.png"/>
 
